@@ -13,9 +13,7 @@ header{
  display: flex; 
  justify-content: space-between;
 }  
-.seguir{
-  color: red;
-}
+
 /* nav*/
 nav ul {
   list-style-type: none;
